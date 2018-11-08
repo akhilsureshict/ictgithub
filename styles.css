@@ -1,0 +1,19 @@
+
+    body{
+        background:orange
+    }
+    .mytr{
+        background:yellow
+    }
+    h2{
+        margin-left:100px
+    }
+    .mydiv{
+        border:1px;solid; 
+        background-color:whitesmoke;
+    }
+    table{
+        margin-left:200px;
+        background-color:white;
+        width:700px;
+    }
